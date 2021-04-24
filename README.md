@@ -1,5 +1,5 @@
 # wireless-power-transmission
-Nonlinear energy harvesting model and beamforming optimization
+Nonlinear energy harvesting model and autonomous vehicle charger
 
 The WangXiaHuangWuTWC17.rar is the Marlab code for:
 S Wang, M Xia, K Huang, YC Wu, 
