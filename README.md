@@ -19,5 +19,11 @@ S Wang, M Xia, K Huang, YC Wu,
 ``Wirelessly powered two-way communication with nonlinear energy harvesting model: Rate regions under fixed and mobile relay,'' 
 IEEE Trans. Wireless Commun, vol. 16, no. 12, pp. 8190-8204, Dec. 2017.
 
+4. global_planning is the Matlab code for the robotic backcatter communication in the paper:
+
+S Wang, M Xia, YC Wu,
+``Backscatter data collection with unmanned ground vehicle: Mobility management and power allocation,''
+IEEE Transactions on Wireless Communications, vol. 18, no. 4, pp. 2314-2328.
+
 NOTE: Different solvers (including SDPT3, Sedumi, Mosek) could be tried to address the numerical issues arising in solving convex optimization problems. 
 
