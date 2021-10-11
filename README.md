@@ -1,5 +1,4 @@
-# ROBO_WET
-# robotic-wireless-energy-transmission
+# ROBO_WET: A simulation platform for robotic-wireless-energy-transmission
 Nonlinear energy harvesting model and autonomous vehicle charger
 
 1. The WangXiaHuangWuTWC17.rar is the Marlab code for:
