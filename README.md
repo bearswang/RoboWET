@@ -1,4 +1,5 @@
-# wireless-power-transmission
+# ROBO_WET
+# robotic-wireless-energy-transmission
 Nonlinear energy harvesting model and autonomous vehicle charger
 
 1. The WangXiaHuangWuTWC17.rar is the Marlab code for:
