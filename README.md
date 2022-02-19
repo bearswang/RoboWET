@@ -17,7 +17,7 @@ IEEE Communications Magazine, Mar. 2022.
 
 # Energy Harvesting Model
 
-1. The "model" folder is the Matlab code for the nonlinear energy harvesting model in the paper:
+The "model" folder is the Matlab code for the nonlinear energy harvesting model in the paper:
 
 [TWC17] S Wang, M Xia, K Huang, YC Wu, 
 ``Wirelessly powered two-way communication with nonlinear energy harvesting model: Rate regions under fixed and mobile relay,'' 
@@ -25,7 +25,7 @@ IEEE Trans. Wireless Commun., vol. 16, no. 12, pp. 8190-8204, Dec. 2017.
 
 # Wirelessly Powered Communication
 
-2. The "fixed" folder is the Matlab code for the wirelessly powered communication in the paper:
+The "fixed" folder is the Matlab code for the wirelessly powered communication in the paper:
 
 [JSTSP16] S. Wang, M. Xia and Y.-C. Wu, 
 ``Multi-pair two-way relay network with harvest-then-transmit users: resolving pairwise uplink-downlink coupling,'' 
@@ -33,7 +33,7 @@ IEEE Journal of Selected Topics in Signal Processing, vol. 10, no. 8, pp. 1506-1
 
 # Robotic Wirelessly Powered Two-Way Relay
 
-3. The "mobile" fplder is the Marlab code for the mobile relay case in the paper:
+The "mobile" fplder is the Marlab code for the mobile relay case in the paper:
 
 [TWC17] S Wang, M Xia, K Huang, YC Wu, 
 ``Wirelessly powered two-way communication with nonlinear energy harvesting model: Rate regions under fixed and mobile relay,'' 
@@ -41,7 +41,7 @@ IEEE Trans. Wireless Commun., vol. 16, no. 12, pp. 8190-8204, Dec. 2017.
 
 # Robotic Wirelessly Powered Backscatter Communication
 
-4. The "global_planning" folder is the Matlab code for the robotic IoT in the paper:
+The "global_planning" folder is the Matlab code for the robotic IoT in the paper:
 
 [TWC20] S Wang, M Xia, YC Wu,
 ``Backscatter data collection with unmanned ground vehicle: Mobility management and power allocation,''
@@ -49,7 +49,7 @@ IEEE Trans. Wireless Commun., vol. 18, no. 4, pp. 2314-2328, 2020.
 
 # Collision Avoidance Local Planning
 
-5. The "local_planning" folder is the code for the collision avoidance problem in the paper:
+The "local_planning" folder is the code for the collision avoidance problem in the paper:
 
 [IROS20] R Han, S Chen, Q Hao, ``A Distributed Range-Only Collision Avoidance Approach for Low-cost Large-scale Multi-Robot Systems,'' in Proc. IEEE IROS, 2020.
 
