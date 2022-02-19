@@ -1,5 +1,12 @@
 # Local Motion Planning For Robotic Wireless Energy Transmission
 
+The local planning is based on velocity obstacles. More details can be found in
+
+R Han, S Chen, Q Hao,
+``A Distributed Range-Only Collision Avoidance Approach for Low-cost Large-scale Multi-Robot Systems,''
+in Proc. IEEE IROS, 2020.
+
+
 # Multiple Robots Master
 The program of multiple robot platform running in master computer
 
