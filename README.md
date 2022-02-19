@@ -33,7 +33,7 @@ IEEE Journal of Selected Topics in Signal Processing, vol. 10, no. 8, pp. 1506-1
 
 # Robotic Wirelessly Powered Two-Way Relay
 
-The "mobile" fplder is the Marlab code for the mobile relay case in the paper:
+The "mobile" folder is the Marlab code for the mobile relay case in the paper:
 
 [TWC17] S Wang, M Xia, K Huang, YC Wu, 
 ``Wirelessly powered two-way communication with nonlinear energy harvesting model: Rate regions under fixed and mobile relay,'' 
