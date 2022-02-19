@@ -21,7 +21,7 @@ IEEE Communications Magazine, Mar. 2022.
 
 [TWC17] S Wang, M Xia, K Huang, YC Wu, 
 ``Wirelessly powered two-way communication with nonlinear energy harvesting model: Rate regions under fixed and mobile relay,'' 
-IEEE Trans. Wireless Commun, vol. 16, no. 12, pp. 8190-8204, Dec. 2017.
+IEEE Trans. Wireless Commun., vol. 16, no. 12, pp. 8190-8204, Dec. 2017.
 
 # Wirelessly Powered Communication
 
@@ -37,7 +37,7 @@ IEEE Journal of Selected Topics in Signal Processing, vol. 10, no. 8, pp. 1506-1
 
 [TWC17] S Wang, M Xia, K Huang, YC Wu, 
 ``Wirelessly powered two-way communication with nonlinear energy harvesting model: Rate regions under fixed and mobile relay,'' 
-IEEE Trans. Wireless Commun, vol. 16, no. 12, pp. 8190-8204, Dec. 2017.
+IEEE Trans. Wireless Commun., vol. 16, no. 12, pp. 8190-8204, Dec. 2017.
 
 # Robotic Wirelessly Powered Backscatter Communication
 
@@ -45,5 +45,5 @@ IEEE Trans. Wireless Commun, vol. 16, no. 12, pp. 8190-8204, Dec. 2017.
 
 [TWC20] S Wang, M Xia, YC Wu,
 ``Backscatter data collection with unmanned ground vehicle: Mobility management and power allocation,''
-IEEE Transactions on Wireless Communications, vol. 18, no. 4, pp. 2314-2328, 2020.
+IEEE Trans. Wireless Commun., vol. 18, no. 4, pp. 2314-2328, 2020.
 
