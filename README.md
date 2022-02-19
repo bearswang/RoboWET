@@ -47,3 +47,9 @@ IEEE Trans. Wireless Commun., vol. 16, no. 12, pp. 8190-8204, Dec. 2017.
 ``Backscatter data collection with unmanned ground vehicle: Mobility management and power allocation,''
 IEEE Trans. Wireless Commun., vol. 18, no. 4, pp. 2314-2328, 2020.
 
+# Collision Avoidance Local Planning
+
+5. The "local_planning" folder is the code for the collision avoidance problem in the paper:
+
+[IROS20] R Han, S Chen, Q Hao, ``A Distributed Range-Only Collision Avoidance Approach for Low-cost Large-scale Multi-Robot Systems,'' in Proc. IEEE IROS, 2020.
+
