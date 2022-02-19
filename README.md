@@ -1,29 +1,33 @@
 # ROBO_WET: A simulation platform for robotic-wireless-energy-transmission
 Nonlinear energy harvesting model and autonomous vehicle charger
 
-1. The WangXiaHuangWuTWC17.rar is the Marlab code for:
+1. The "model" folder is the Matlab code for the nonlinear energy harvesting model in the paper:
 
 S Wang, M Xia, K Huang, YC Wu, 
 ``Wirelessly powered two-way communication with nonlinear energy harvesting model: Rate regions under fixed and mobile relay,'' 
 IEEE Trans. Wireless Commun, vol. 16, no. 12, pp. 8190-8204, Dec. 2017.
 
-2. The WangXiaWu_JSTSP.rar is the Marlab code for:
+2. The "fixed" folder is the Matlab code for the wirelessly powered communication in the paper:
 
 S. Wang, M. Xia and Y.-C. Wu, 
 ``Multi-pair two-way relay network with harvest-then-transmit users: resolving pairwise uplink-downlink coupling,'' 
 IEEE Journal of Selected Topics in Signal Processing, vol. 10, no. 8, pp. 1506-1521, Dec. 2016.
 
-3. The WangXiaHuangWuTWC17PartII.rar is the Marlab code for the mobile relay case in the paper:
+3. The "mobile" fplder is the Marlab code for the mobile relay case in the paper:
 
 S Wang, M Xia, K Huang, YC Wu, 
 ``Wirelessly powered two-way communication with nonlinear energy harvesting model: Rate regions under fixed and mobile relay,'' 
 IEEE Trans. Wireless Commun, vol. 16, no. 12, pp. 8190-8204, Dec. 2017.
 
-4. The global_planning folder is the Matlab code for the robotic backcatter communication in the paper:
+4. The "global_planning" folder is the Matlab code for the robotic IoT in the following papers:
 
 S Wang, M Xia, YC Wu,
 ``Backscatter data collection with unmanned ground vehicle: Mobility management and power allocation,''
 IEEE Transactions on Wireless Communications, vol. 18, no. 4, pp. 2314-2328, 2020.
+
+S. Wang, R. Han, Y. Hong, Q. Hao, M. Wen, L. Musavian, S. Mumtaz, D. W. K. Ng, 
+``Robotic wireless energy transfer in dynamic environments: System design and experimental validation,''
+IEEE Communications Magazine, Mar. 2022.
 
 NOTE: Different solvers (including SDPT3, Sedumi, Mosek) could be tried to address the numerical issues arising in solving convex optimization problems. 
 
