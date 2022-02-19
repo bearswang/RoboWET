@@ -1,4 +1,4 @@
-# ROBO_WET: A simulation platform for robotic-wireless-energy-transmission
+# ROBOWET: A simulation platform for robotic wireless energy transfer
 
 Wireless energy transfer (WET) is a ground-breaking technology for cutting the last wire between mobile sensors and power grids in smart cities. Yet, WET only offers effective transmission of energy over a short distance. Robotic WET is an emerging paradigm that mounts the energy transmitter on a mobile robot and navigates the robot through different regions in a large area to charge remote energy harvesters.
 
