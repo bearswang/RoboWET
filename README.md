@@ -12,7 +12,7 @@ NOTE: Different solvers (including SDPT3, Sedumi, Mosek) could be tried to addre
 
 The overall architecture and experimental validation of robotic WET are provided in the following paper:
 
-[RoboWET] S. Wang, R. Han, Y. Hong, Q. Hao, M. Wen, L. Musavian, S. Mumtaz, anjd D. W. K. Ng, 
+[RoboWET] S. Wang, R. Han, Y. Hong, Q. Hao, M. Wen, L. Musavian, S. Mumtaz, and D. W. K. Ng, 
 ``Robotic wireless energy transfer in dynamic environments: System design and experimental validation,''
 IEEE Communications Magazine, Mar. 2022.
 
